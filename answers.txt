@@ -5,3 +5,12 @@ Answer: [It's easy to collaborate  with others.]
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: [Data science could be applied to biology where we want to find stastial data to something like covid 19.]
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Merge combines, while rebase move one to another.]
+
+Q4: What are you looking forward to this semester?
+
+Answer: [I'm looking forward how we can manipulate data.]
